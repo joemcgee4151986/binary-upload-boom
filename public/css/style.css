@@ -1,0 +1,47 @@
+body {
+  background: #222222;
+  font-family: "Itim", cursive;
+  font-size: 1.2em;
+  color: white;
+  padding-top: 50px;
+}
+a {
+  color: #fff59e;
+}
+h3 {
+  float: right;
+}
+.logo {
+  height: 200px;
+  width: 25%;
+}
+span {
+  font-style: italic;
+}
+.small {
+  height: 40px;
+  width: 15%;
+}
+.flex-container {
+  display: grid;
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+.btn-secondary{
+  height: 34px;
+  
+  position: relative; top: 35px;
+  
+  width: 95.33%;
+
+
+	
+  background-color: red;
+}
+.btn-profile{
+  background-color: blue;
+}
